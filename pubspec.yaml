@@ -14,7 +14,7 @@ dependencies:
   collection: ^1.15.0
   flutter_colorpicker: ^1.0.3
   flutter_keyboard_visibility: ^5.2.0
-  image_picker: ^0.8.5
+  image_picker: '>=0.8.9 <2.0.0' # check https://pub.dev/packages/image_picker/changelog for context
   photo_view: ^0.14.0
   quiver: ^3.1.0
   string_validator: ^0.3.0
