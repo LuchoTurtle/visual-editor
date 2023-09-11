@@ -17,7 +17,7 @@ dependencies:
   image_picker: '>=0.8.9 <2.0.0' # check https://pub.dev/packages/image_picker/changelog for context
   photo_view: ^0.14.0
   quiver: ^3.1.0
-  string_validator: ^0.3.0
+  string_validator: ^1.0.0
   url_launcher: ^6.1.0
   pedantic: ^1.11.1
   video_player: ^2.4.0
